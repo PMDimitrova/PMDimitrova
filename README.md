@@ -14,4 +14,6 @@ let PMD ={
 ***currentlyLearning***: 'Typescript',
 };
 
-//Note: GitHub's auto formatting is horrible 🙄
+/*
+**Note**: GitHub's auto formatting is horrible; 
+**Note2**: I'm using `let` instead of `const`, since I'm changing constantly (hopefully for better 😆) */
