@@ -1,19 +1,18 @@
+<h1> Hi stranger!</h1>
 
-## Hi stranger!
-
-let PMD ={
-***age***: 'Millennial, but wants to be GenZ', 
-***hobbies***: ['weightlifting', 'ski', 'MTB', 'windsurf', 'tapestry', 'Swedish triller books'],
-***isCatPerson***: true,
-***isAlsoDogPerson***: true,
-***ownedPets***: ['child_1', 'child_2', '2yo Ragdoll cat'], 
-***hasFavoritePodcast***: true,
-***podcastList***: ['Говори ѝнтернет', 'Естествен интелект', 'Chasing Excellence'],
-***isCoffeePerson***: true,
-***favoriteCoffeeTypes***: ['espresso dopio', 'espresso macchiato', 'affogato'],
-***currentlyLearning***: 'Typescript',
-};
-
-/*
-**Note**: GitHub's auto formatting is horrible; 
-**Note2**: I'm using `let` instead of `const`, since I'm changing constantly (hopefully for better 😆) */
+<h3>let PMD = { </h3>
+<pre>
+<p><strong>page</strong>: 'Millennial, but wants to be GenZ', </p>
+<p><strong>hobbies</strong>: ['weightlifting', 'ski', 'MTB', 'windsurf', 'tapestry', 'Swedish triller books'],</p>
+<p><strong>isCatPerson</strong>: true,</p>
+<p><strong>isAlsoDogPerson</strong>: true,</p>
+<p><strong>ownedPets</strong>: ['2yo Ragdoll cat'], </p>
+<p><strong>hasFavoritePodcast</strong>: true,</p>
+<p><strong>podcastList</strong>: ['Говори ѝнтернет', 'Естествен интелект', 'Chasing Excellence'],</p>
+<p><strong>isCoffeePerson</strong>: true,</p>
+<p><strong>favoriteCoffeeTypes</strong>: ['espresso dopio', 'espresso macchiato', 'affogato'],</p>
+<p><strong>currentlyLearning</strong>: 'TypeScript',</p>
+</pre>
+<h3><p>};</p></h3>
+ 
+<strong>PS:</strong> I'm using `let` instead of `const`, since I'm changing constantly (hopefully for better 😆)
