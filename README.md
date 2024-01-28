@@ -1,6 +1,6 @@
 <h1> Hi stranger!</h1>
 
-<h3>let PMD = { </h3>
+<h3>const PMD = { </h3>
 <pre>
 <p><strong>age</strong>: 'Millennial, but wants to be GenZ', </p>
 <p><strong>hobbies</strong>: ['weightlifting', 'ski', 'MTB', 'windsurf', 'tapestry', 'Swedish triller books'],</p>
@@ -14,5 +14,3 @@
 <p><strong>currentlyLearning</strong>: 'TypeScript',</p>
 </pre>
 <h3><p>};</p></h3>
- 
-<strong>PS:</strong> I'm using `let` instead of `const`, since I'm changing constantly (hopefully for better 😆)
