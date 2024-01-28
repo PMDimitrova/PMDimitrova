@@ -2,7 +2,7 @@
 
 <h3>let PMD = { </h3>
 <pre>
-<p><strong>page</strong>: 'Millennial, but wants to be GenZ', </p>
+<p><strong>age</strong>: 'Millennial, but wants to be GenZ', </p>
 <p><strong>hobbies</strong>: ['weightlifting', 'ski', 'MTB', 'windsurf', 'tapestry', 'Swedish triller books'],</p>
 <p><strong>isCatPerson</strong>: true,</p>
 <p><strong>isAlsoDogPerson</strong>: true,</p>
